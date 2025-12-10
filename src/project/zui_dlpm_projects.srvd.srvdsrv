@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Def - DLPM Projects'
+define service ZUI_DLPM_PROJECTS {
+  expose ZC_PROJECTS;
+}

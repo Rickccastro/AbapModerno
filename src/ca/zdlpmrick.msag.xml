@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZDLPMRICK</ARBGB>
+    <MASTERLANG>P</MASTERLANG>
+    <STEXT>Mensagens</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPMRICK</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Não é possivel salvar o ID</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPMRICK</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Não é possivel salvar o TITLE</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPMRICK</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Não é possivel salvar o SQUAD</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPMRICK</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Não é possivel salvar o DESCRIPTION</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPMRICK</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Não é possivel salvar o OWNER</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPMRICK</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Não se pode salvar registro sem comentário</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPMRICK</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Não é possível salvar registro sem Ticket</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPMRICK</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Não foi possível salvar registro sem o Usuario</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPMRICK</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Não é possivel salvar sem o Binario</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPMRICK</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Não é possivel salvar sem o Caminho do Arquivo</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPMRICK</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Não é possivel salvar o registro sem o TYPE_DOCUMENT</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZDLPMRICK</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Não é possivel salvar o registro sem o FILENAME</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
